@@ -1,0 +1,5 @@
+{
+  "name": "Pradeep's Todo List",
+  "description": "Pradeep's simple, elegant, and functional Todo list application built with React, TypeScript, and Tailwind CSS. It allows users to add, manage, and track their daily tasks with a clean and intuitive user interface.",
+  "requestFramePermissions": []
+}
